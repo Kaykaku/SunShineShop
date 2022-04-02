@@ -29,7 +29,7 @@
   <img src="https://user-images.githubusercontent.com/90887094/161307321-3e70bc40-2d45-4222-917e-8ac55168b5d1.png" width="50%">
   <img src="https://user-images.githubusercontent.com/90887094/161307320-802c2c21-d606-4ca3-bc3b-c7cb04b04192.png" width="50%">
   <img src="https://user-images.githubusercontent.com/90887094/161307315-b584f9a1-7790-41d8-83d4-9e2e237985c3.png" width="50%">
-  <img src="https://user-images.githubusercontent.com/90887094/161307303-e6ff7dcc-88e6-4c6a-88f1-2c45da47083a.pngg" width="50%">
+  <img src="https://user-images.githubusercontent.com/90887094/161307303-e6ff7dcc-88e6-4c6a-88f1-2c45da47083a.png" width="50%">
   <h3>3.Product Detail</h3>
   <p>Product details page including product information, add to cart and some other product suggestions</p>
   <img src="https://user-images.githubusercontent.com/90887094/161307572-edcc564c-ce56-4596-9c01-854d05bd7f0f.png" width="50%">
